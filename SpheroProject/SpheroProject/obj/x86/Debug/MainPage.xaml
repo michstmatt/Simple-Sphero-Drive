@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="SpheroProject.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SpheroProject"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+   
+    
+    >
+    <Grid>
+    <StackPanel Margin="20">
+  <TextBlock Typography.Capitals="AllSmallCaps" Text="Sphero Demo" FontSize="40"/>
+        <ToggleSwitch x:ConnectionId='1' x:Name="ConnectionToggle" HorizontalAlignment="Left"  
+                      VerticalAlignment="Top"                                    />
+            <TextBlock Text="{Binding SpheroName}" FontSize="22"/>
+            <StackPanel x:ConnectionId='2' x:Name="grdControls" Visibility="Collapsed">
+                <TextBlock  Text="Use arrow keys to control" Margin="0,5" />
+            <TextBlock Typography.Capitals="AllSmallCaps" Text="Speed" Margin="0,5" FontSize="22"/>
+<Slider x:ConnectionId='3' x:Name="sldSpeed" Value=".5" Maximum="1" StepFrequency=".05"/>
+
+            <TextBlock Typography.Capitals="AllSmallCaps" Text="Calibration" Margin="0,5" FontSize="22"/>
+       
+            <Slider x:ConnectionId='4' x:Name="sldHeading" Maximum="360"                                                                                             />
+            <TextBlock Typography.Capitals="AllSmallCaps" Text="Color" Margin="0,5" FontSize="22"/>
+            <Slider x:ConnectionId='5' x:Name="sldRed"                                    Foreground="Red" Maximum="255"/>
+            <Slider x:ConnectionId='6' x:Name="sldGreen"                                      Foreground="Green" Maximum="255"/>
+            <Slider x:ConnectionId='7' x:Name="sldBlue"                                     Foreground="Blue" Maximum="255"/>
+
+
+            <TextBlock Typography.Capitals="AllSmallCaps" Text="Sensor Reading" Margin="0,5" FontSize="22"/>
+        <TextBlock x:ConnectionId='8' x:Name="txtSensor" Text="{Binding GyroReading}"/>
+
+        </StackPanel>
+        </StackPanel>
+       
+    </Grid>
+</Page>
+
