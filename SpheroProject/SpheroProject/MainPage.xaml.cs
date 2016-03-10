@@ -24,6 +24,7 @@ namespace SpheroProject
     public sealed partial class MainPage : Page
     {
         SpheroManager sp;
+        int lastHeading = 0;
         public MainPage()
         {
             sp = new SpheroManager();
@@ -44,7 +45,7 @@ namespace SpheroProject
             if (sp.m_robot != null)
             {
                 
-                sp.m_robot.Roll(0, 0f);
+                sp.m_robot.Roll(lastHeading, 0f);
             }
         }
 
@@ -57,15 +58,19 @@ namespace SpheroProject
                     case Windows.System.VirtualKey.Up:
                         //roll forward
                         sp.m_robot.Roll(0, (float)sldSpeed.Value);
+                        lastHeading = 0;
                         break;
                     case Windows.System.VirtualKey.Down:
                         sp.m_robot.Roll(180, (float)sldSpeed.Value);
+                        lastHeading = 180;
                         break;
                     case Windows.System.VirtualKey.Left:
                         sp.m_robot.Roll(270, (float)sldSpeed.Value);
+                        lastHeading = 270;
                         break;
                     case Windows.System.VirtualKey.Right:
                         sp.m_robot.Roll(90, (float)sldSpeed.Value);
+                        lastHeading = 90;
                         break;
 
                 }
