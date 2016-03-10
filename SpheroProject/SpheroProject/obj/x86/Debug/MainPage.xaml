@@ -11,9 +11,14 @@
     >
     <Grid>
     <StackPanel Margin="20">
+        
   <TextBlock Typography.Capitals="AllSmallCaps" Text="Sphero Demo" FontSize="40"/>
+       
+        
         <ToggleSwitch x:ConnectionId='1' x:Name="ConnectionToggle" HorizontalAlignment="Left"  
                       VerticalAlignment="Top"                                    />
+        
+        
             <TextBlock Text="{Binding SpheroName}" FontSize="22"/>
             <StackPanel x:ConnectionId='2' x:Name="grdControls" Visibility="Collapsed">
                 <TextBlock  Text="Use arrow keys to control" Margin="0,5" />

@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ee469f1e-6bac-496c-ab6d-818e262f17f0</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\obj\x86\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>536F22F31E13AC42612684D3DF364BDC08854D959A95305DDA5E2CFCF1994287</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>ee469f1e-6bac-496c-ab6d-818e262f17f0_1.0.0.0_x86__4bha6t8v6mmqe</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>ee469f1e-6bac-496c-ab6d-818e262f17f0_4bha6t8v6mmqe!App</RegisteredUserModeAppID>
@@ -19,500 +19,500 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-08T22:21:59.315</Modified>
+      <Modified>2016-03-09T01:09:05.732</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
       <Modified>2016-03-02T00:22:04.636</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-08-27T06:38:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-08-27T06:38:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-08-27T06:38:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-08-27T06:38:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-08-27T06:38:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-08-27T06:38:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-08-27T06:38:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\ClrCompression.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\ClrCompression.dll">
       <PackagePath>ClrCompression.dll</PackagePath>
       <Modified>2015-08-03T00:43:40.055</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\entrypoint\SpheroProject.exe">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\entrypoint\SpheroProject.exe">
       <PackagePath>entrypoint\SpheroProject.exe</PackagePath>
-      <Modified>2016-03-08T22:21:58.521</Modified>
+      <Modified>2016-03-09T01:09:04.235</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
       <Modified>2015-08-03T00:43:31.370</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
       <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.dll</PackagePath>
       <Modified>2015-08-03T00:43:31.745</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll">
       <PackagePath>Microsoft.ApplicationInsights.PersistenceChannel.dll</PackagePath>
       <Modified>2015-08-03T00:43:31.682</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Microsoft.CSharp.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.995</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.573</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
       <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
       <Modified>2015-08-03T00:43:32.760</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-03-02T00:21:51.736</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-03-08T22:21:58.931</Modified>
+      <Modified>2016-03-09T01:09:05.246</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\RobotKit.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\RobotKit.dll">
       <PackagePath>RobotKit.dll</PackagePath>
       <Modified>2016-03-02T00:21:04.470</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\SpheroProject.exe">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\SpheroProject.exe">
       <PackagePath>SpheroProject.exe</PackagePath>
-      <Modified>2016-03-08T22:21:59.313</Modified>
+      <Modified>2016-03-09T01:09:05.726</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\SpheroProject.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\SpheroProject.xr.xml">
       <PackagePath>SpheroProject.xr.xml</PackagePath>
       <Modified>2016-03-08T18:01:16.272</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.AppContext.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.463</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
       <PackagePath>System.Collections.Concurrent.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.495</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Collections.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Collections.dll">
       <PackagePath>System.Collections.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Collections.Immutable.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Collections.Immutable.dll">
       <PackagePath>System.Collections.Immutable.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.854</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
       <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.573</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Collections.Specialized.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Collections.Specialized.dll">
       <PackagePath>System.Collections.Specialized.dll</PackagePath>
       <Modified>2015-08-03T00:43:32.729</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
       <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.463</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
       <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.463</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ComponentModel.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ComponentModel.dll">
       <PackagePath>System.ComponentModel.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.823</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
       <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
       <Modified>2015-08-03T00:43:32.916</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Core.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Core.dll">
       <PackagePath>System.Core.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.479</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Data.Common.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Data.Common.dll">
       <PackagePath>System.Data.Common.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
       <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.088</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
       <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
       <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.276</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
       <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.479</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
       <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.dll">
       <PackagePath>System.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.698</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
       <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
       <Modified>2015-08-03T00:43:37.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
       <PackagePath>System.Globalization.Calendars.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Globalization.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Globalization.dll">
       <PackagePath>System.Globalization.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.823</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
       <PackagePath>System.Globalization.Extensions.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.Compression.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.Compression.dll">
       <PackagePath>System.IO.Compression.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
       <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.745</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.dll">
       <PackagePath>System.IO.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.854</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.FileSystem.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.FileSystem.dll">
       <PackagePath>System.IO.FileSystem.dll</PackagePath>
       <Modified>2015-08-03T00:43:37.948</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
       <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
       <Modified>2015-08-03T00:43:37.229</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
       <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.088</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
       <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
       <Modified>2015-08-03T00:43:37.385</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Linq.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Linq.dll">
       <PackagePath>System.Linq.dll</PackagePath>
       <Modified>2015-08-03T00:43:37.870</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Linq.Expressions.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Linq.Expressions.dll">
       <PackagePath>System.Linq.Expressions.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Linq.Parallel.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Linq.Parallel.dll">
       <PackagePath>System.Linq.Parallel.dll</PackagePath>
       <Modified>2015-08-03T00:43:39.182</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Linq.Queryable.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Linq.Queryable.dll">
       <PackagePath>System.Linq.Queryable.dll</PackagePath>
       <Modified>2015-08-03T00:43:37.901</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.dll">
       <PackagePath>System.Net.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.729</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.Http.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.Http.dll">
       <PackagePath>System.Net.Http.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.698</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
       <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.276</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
       <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
       <Modified>2015-08-03T00:43:37.573</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.Primitives.dll">
       <PackagePath>System.Net.Primitives.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.Requests.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.Requests.dll">
       <PackagePath>System.Net.Requests.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.526</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.Sockets.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.Sockets.dll">
       <PackagePath>System.Net.Sockets.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.948</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
       <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.760</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Numerics.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Numerics.dll">
       <PackagePath>System.Numerics.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.745</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
       <PackagePath>System.Numerics.Vectors.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
       <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.698</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ObjectModel.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ObjectModel.dll">
       <PackagePath>System.ObjectModel.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.135</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
       <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.463</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Private.Networking.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Private.Networking.dll">
       <PackagePath>System.Private.Networking.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.448</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
       <PackagePath>System.Private.ServiceModel.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Private.Uri.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Private.Uri.dll">
       <PackagePath>System.Private.Uri.dll</PackagePath>
       <Modified>2015-08-03T00:43:32.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Context.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Context.dll">
       <PackagePath>System.Reflection.Context.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.760</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
       <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
       <Modified>2015-08-03T00:43:37.948</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.dll">
       <PackagePath>System.Reflection.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.276</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Emit.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Emit.dll">
       <PackagePath>System.Reflection.Emit.dll</PackagePath>
       <Modified>2015-08-03T00:43:40.164</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
       <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
       <Modified>2015-08-03T00:43:40.117</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
       <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
       <Modified>2015-08-03T00:43:40.070</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
       <PackagePath>System.Reflection.Extensions.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
       <PackagePath>System.Reflection.Metadata.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.604</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
       <PackagePath>System.Reflection.Primitives.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.557</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
       <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.557</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
       <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.307</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2015-08-03T00:43:39.198</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
       <PackagePath>System.Runtime.Extensions.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.745</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Handles.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Handles.dll">
       <PackagePath>System.Runtime.Handles.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.416</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
       <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
       <Modified>2015-08-03T00:43:39.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
       <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.948</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
       <PackagePath>System.Runtime.Numerics.dll</PackagePath>
       <Modified>2015-08-03T00:43:38.901</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
       <PackagePath>System.Runtime.Serialization.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.760</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
       <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.073</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
       <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
       <Modified>2015-08-03T00:43:33.901</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
       <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.526</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
       <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
       <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.651</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Security.Claims.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Security.Claims.dll">
       <PackagePath>System.Security.Claims.dll</PackagePath>
       <Modified>2015-08-03T00:43:37.573</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Security.Principal.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Security.Principal.dll">
       <PackagePath>System.Security.Principal.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.745</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.dll">
       <PackagePath>System.ServiceModel.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
       <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.510</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
       <PackagePath>System.ServiceModel.Http.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.557</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
       <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.760</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
       <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.729</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
       <PackagePath>System.ServiceModel.Security.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
       <PackagePath>System.ServiceModel.Web.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
       <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.666</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Text.Encoding.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Text.Encoding.dll">
       <PackagePath>System.Text.Encoding.dll</PackagePath>
       <Modified>2015-08-03T00:43:36.729</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
       <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.463</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
       <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.916</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Threading.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Threading.dll">
       <PackagePath>System.Threading.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.526</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
       <PackagePath>System.Threading.Overlapped.dll</PackagePath>
       <Modified>2015-08-03T00:43:32.229</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
       <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.229</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Threading.Tasks.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Threading.Tasks.dll">
       <PackagePath>System.Threading.Tasks.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.057</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
       <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.370</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Threading.Timer.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Threading.Timer.dll">
       <PackagePath>System.Threading.Timer.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.291</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Windows.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Windows.dll">
       <PackagePath>System.Windows.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.870</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.dll">
       <PackagePath>System.Xml.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.901</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.Linq.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.Linq.dll">
       <PackagePath>System.Xml.Linq.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.901</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
       <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.088</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.Serialization.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.Serialization.dll">
       <PackagePath>System.Xml.Serialization.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.XDocument.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.XDocument.dll">
       <PackagePath>System.Xml.XDocument.dll</PackagePath>
       <Modified>2015-08-03T00:43:34.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
       <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
       <Modified>2015-08-03T00:43:32.948</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-08-03T00:43:35.510</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\College\2015-2016\CSE 335\SpheroProject\SpheroProject\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
+    <AppxPackagedFile Include="C:\Users\Matt\Documents\GitHub\Simple-Sphero-Drive\SpheroProject\SpheroProject\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-02-13T21:07:17.666</Modified>
     </AppxPackagedFile>
